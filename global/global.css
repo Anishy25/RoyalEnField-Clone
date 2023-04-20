@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    height: 100%;
+    width: 100%; 
+    list-style: none; 
+}
+
+h3{
+    color:whitesmoke;
+    margin-top: 150px;
+    margin-left: 650px;
+}
+p{
+    color: whitesmoke;
+    padding-left: 50PX;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary
+{
+    
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.row{
+
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+   
+}
+
+.column{
+    height: 250px;
+    width: 250px;
+    display:inline-block;
+}
+#div2{
+
+    height: 450px;
+    width: 450px;
+    margin-left: 550px;
+}
+
+#div1{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    display:inline-block;
+    display: table;
+    display:inline-block;
+}
+
