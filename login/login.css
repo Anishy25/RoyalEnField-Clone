@@ -1,0 +1,71 @@
+body
+{
+  height: 100%;
+  width: 100%; 
+  list-style: none; 
+  background-image: url(./images/bgg2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  column-gap: 15px;
+  color: whitesmoke;
+  font-size: 15px;
+} 
+
+
+.navbar navbar-expand-lg bg-body-tertiary
+{
+    
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+
+
+button{
+    color: black;
+    background-color:white;
+    column-gap: 20px;
+    height: 50px;
+    width: 250px;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+#btn1{
+    background-color: blue;
+    color: white;
+}
+
+#btn2{
+    background-color: red;
+    color: white;
+}
+
+
+#btn3{
+    background-color: skyblue;
+    color: white;
+}
+
+#div3{
+margin-left: 150px;
+}
+
+
+.navbar navbar-expand-lg bg-body-tertiary
+{
+    
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+#div1{
+    padding-left: 250px;
+    margin-top: 150px;
+}
